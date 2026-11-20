@@ -1,0 +1,10 @@
+LA FONTANA HELADERÍA — SITIO WEB
+
+1. Descomprime el archivo ZIP.
+2. Abre la carpeta fontana_site.
+3. Haz doble clic en index.html para abrir el sitio en Chrome, Edge o Firefox.
+4. Mantén la carpeta assets junto a index.html: contiene las 13 imágenes originales del menú.
+
+El sitio es adaptable a celulares, tabletas y computadores. Incluye filtros del catálogo, vista ampliada de imágenes y enlaces a WhatsApp e Instagram.
+
+Para publicarlo en internet, sube la carpeta completa a un servicio de alojamiento estático (por ejemplo, GitHub Pages, Netlify o un hosting propio). Los enlaces de contacto están configurados con el teléfono 3193600736 y el perfil @Lafontana_heladeria.
